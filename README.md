@@ -53,4 +53,6 @@ machine learning concepts as part of my AIML learning journey.
 
 ## Goal
 
-To b
+To build strong ML fundamentals and apply them to a 
+real world Disaster Management System that predicts 
+risk levels and sends alerts to affected users.
