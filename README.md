@@ -15,13 +15,24 @@ machine learning concepts as part of my AIML learning journey.
   (Setosa, Versicolor, Virginica) based on 
   sepal and petal measurements
 
+### 2. Titanic Survival Prediction 🚢
+- **Dataset:** Built-in Titanic dataset from seaborn
+- **Model Used:** Decision Tree Classifier
+- **Accuracy:** ~70%
+- **What it does:** Predicts whether a passenger 
+  survived or not based on class, age, sex, fare etc.
+- **Key learning:** Preprocessing messy real world data,
+  handling missing values, converting text to numbers
+
 ---
 
 ## Concepts Learned
 
 - Importing ML libraries (pandas, sklearn, pickle)
 - Loading and exploring datasets
-- Preprocessing data
+- Preprocessing data (dropna, fillna, map)
+- Handling missing values
+- Converting text columns to numbers
 - Splitting data into training and testing sets
 - Training a Decision Tree Classifier
 - Testing model accuracy
@@ -36,6 +47,7 @@ machine learning concepts as part of my AIML learning journey.
 - Google Colab
 - Scikit-learn
 - Pandas
+- Seaborn
 - Pickle
 
 ---
@@ -43,7 +55,7 @@ machine learning concepts as part of my AIML learning journey.
 ## Progress
 
 - [x] Iris Flower Classification
-- [ ] Titanic Survival Prediction
+- [x] Titanic Survival Prediction
 - [ ] Heart Disease Risk Prediction
 - [ ] Earthquake Risk Prediction
 - [ ] Flood Risk Prediction
