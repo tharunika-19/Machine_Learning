@@ -24,18 +24,30 @@ machine learning concepts as part of my AIML learning journey.
 - **Key learning:** Preprocessing messy real world data,
   handling missing values, converting text to numbers
 
+  ### 3. Heart Disease Prediction ❤️
+- **Dataset:** Heart Disease Dataset from Kaggle
+- **Model Used:** Decision Tree Classifier
+- **Accuracy:** ~80%
+- **What it does:** Predicts whether a person has 
+  heart disease or not based on age, sex, 
+  chest pain type, cholesterol, blood pressure etc.
+- **Key learning:** Working with Kaggle CSV datasets,
+  label encoding multiple text columns
+
 ---
 
 ## Concepts Learned
 
 - Importing ML libraries (pandas, sklearn, pickle)
-- Loading and exploring datasets
+- Loading built-in and Kaggle datasets
+- Exploring data (head, shape, isnull)
 - Preprocessing data (dropna, fillna, map)
 - Handling missing values
-- Converting text columns to numbers
+- Converting text columns to numbers (Label Encoding)
 - Splitting data into training and testing sets
 - Training a Decision Tree Classifier
 - Testing model accuracy
+- Classification report and confusion matrix
 - Saving and loading models using pickle
 - Predicting on new unseen data
 
@@ -56,7 +68,7 @@ machine learning concepts as part of my AIML learning journey.
 
 - [x] Iris Flower Classification
 - [x] Titanic Survival Prediction
-- [ ] Heart Disease Risk Prediction
+- [x] Heart Disease Prediction
 - [ ] Earthquake Risk Prediction
 - [ ] Flood Risk Prediction
 - [ ] Cyclone Risk Prediction
@@ -68,3 +80,9 @@ machine learning concepts as part of my AIML learning journey.
 To build strong ML fundamentals and apply them to a 
 real world Disaster Management System that predicts 
 risk levels and sends alerts to affected users.
+
+Update your README and push to GitHub!
+Then come back — we start your real disaster project! 🚀😊
+
+---
+
